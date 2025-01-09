@@ -34,7 +34,7 @@ messages = [
                 "type": "video",
                 "video": "carvana_video.mp4",
             },
-            {"type": "text", "text": "Describe this video."},
+            {"type": "text", "text": "Describe the coordinates of Audi car in this video."},
         ],
     }
 ]
